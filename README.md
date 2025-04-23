@@ -12,18 +12,19 @@
 ### [L'Opale](https://github.com/GhastNier/drasilhelm_maisons/blob/main/princes.md#lopale)
 
 ## Famille Noble 🟨
-### La Citrine
-### Le Jade
-### Le Péridot
-### Le Jaspe
-### La Perle
-### La Tourmaline
-### La Diopside
-### L’Almandin
+### [L’Almandin](https://github.com/GhastNier/drasilhelm_maisons/blob/main/nobles.md#lalmandin)
+### [La Citrine](https://github.com/GhastNier/drasilhelm_maisons/blob/main/nobles.md#la-citrine)
+### [La Diopside](https://github.com/GhastNier/drasilhelm_maisons/blob/main/nobles.md#la-diopside)
+### [Le Jade](https://github.com/GhastNier/drasilhelm_maisons/blob/main/nobles.md#le-jade)
+### [Le Jaspe](https://github.com/GhastNier/drasilhelm_maisons/blob/main/nobles.md#le-jaspe)
+### [La Perle](https://github.com/GhastNier/drasilhelm_maisons/blob/main/nobles.md#la-perle)
+### [Le Péridot](https://github.com/GhastNier/drasilhelm_maisons/blob/main/nobles.md#le-peridot)
+### [La Tourmaline](https://github.com/GhastNier/drasilhelm_maisons/blob/main/nobles.md#la-tourmaline)
 
 ## Famille de Petite Noblesse 🟨
-### Le Topaze Rouge
-### La Rubellite
+### [La Rubellite](https://github.com/GhastNier/drasilhelm_maisons/blob/main/petits-nobles.md#la-rubellite)
+### [Le Topaze](https://github.com/GhastNier/drasilhelm_maisons/blob/main/petits-nobles.md#le-topaze)
+
 
 
 ### Légende
