@@ -119,3 +119,35 @@ années à redorer le blason familial grâce de précieux services à la Couronn
 </td>
 </tr>
 </table>
+
+## L'Opale
+
+<table>
+<tr>
+<td width="70%">
+
+### _Sobriquet_ 
+> La Savante Maison
+### _Dirigeant(e)_
+### _Héritier(ère)_
+### _Membres importants_
+### _Devise_
+> **Savoir et Divination**  
+
+### _Description_
+> L’Opale est connue pour être une famille aussi sage qu’ancienne. Depuis longtemps dans l’univers politique, ils n’ont jamais véritablement pris de position officielle sous une Maison Protectrice. Ils ont de nombreux alliés, mais peu d’ennemis. La Maison de Lazuli le lui reproche d’ailleurs, la sommant depuis longtemps de prendre plus de risques et de clarifier sa position politique. Pour l’Opale, rien ne pourrait
+être plus claire : alors que la Maison de Lazuli excelle dans le domaine militaire, l’Opale est sans conteste la famille au savoir mystique le plus élevé, faisant secrètement la jalousie des Maisons princières.
+
+
+</br>
+
+</td>
+<td width="30%">
+
+![image](https://github.com/user-attachments/assets/880d0c07-e6b0-46b7-a8ba-2b6d8af53856)
+
+
+
+</td>
+</tr>
+</table>
