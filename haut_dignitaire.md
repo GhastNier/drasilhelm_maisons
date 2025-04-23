@@ -1,5 +1,3 @@
-Ces Familles ne sont pas jouable.
-
 # Famille Royale
 ## L’Onyx
 
