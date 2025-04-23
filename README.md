@@ -22,8 +22,8 @@
 ### [La Tourmaline](https://github.com/GhastNier/drasilhelm_maisons/blob/main/nobles.md#la-tourmaline)
 
 ## Famille de Petite Noblesse 🟨
-### [La Rubellite](https://github.com/GhastNier/drasilhelm_maisons/blob/main/petits-nobles.md#la-rubellite)
-### [Le Topaze](https://github.com/GhastNier/drasilhelm_maisons/blob/main/petits-nobles.md#le-topaze)
+### [La Rubellite](https://github.com/GhastNier/drasilhelm_maisons/blob/main/petits_nobles.md#la-rubellite)
+### [Le Topaze](https://github.com/GhastNier/drasilhelm_maisons/blob/main/petits_nobles.md#le-topaze)
 
 
 
